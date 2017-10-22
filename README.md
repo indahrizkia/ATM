@@ -1,6 +1,10 @@
 # ATM
-#
-#PIN
+PIN
+
 ![Screenshot](bank.png)
-#Menu Awal
+
+
+
+Menu Awal
+
 ![Screenshot](lnjutan.png)
